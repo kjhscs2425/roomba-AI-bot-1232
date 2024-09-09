@@ -24,10 +24,52 @@ window = room.draw_room(level = 8,
 
 ###
 # Start your code here
- 
- 
+forward(40)
+right(90)
+forward(40)
+right(180)
+forward(80)
+right(180)
+forward(40)
+left(90)
+forward(200)
+right(180)
+forward(80)
+left(90)
+forward(160)
+right(180)
+forward(320)
+right(180)
+forward(40)
+right(90)
+forward(40)
+right(180)
+forward(80)
+right(180)
+forward(40)
+left(90)
+forward(240)
+right(90)
+forward(40)
+right(180)
+forward(80)
+right(180) 
+forward(40)
+right(90)
+forward(80)
+right(90)
+forward(40)
+left(90)
+forward(80)
+left(90)
+forward(80)
+left(90)
+forward(80)
+left(90)
+forward(40)
+
  
 # End your code here
 ###
  
-window.exitonclick()
+window .exitonclick()

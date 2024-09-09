@@ -16,7 +16,7 @@ window = room.draw_room(level = 3)
 
 ###
 # Start your code here
- 
+forward(40)
  
  
 # End your code here

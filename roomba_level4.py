@@ -16,6 +16,8 @@ window = room.draw_room(level = 4, n_alcoves = 1)
 
 ###
 # Start your code here
+forward(50)
+
  
  
  

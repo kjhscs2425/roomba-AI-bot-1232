@@ -182,4 +182,4 @@ def draw_room(level = 0, n_alcoves = 0, radius = None):
     right(180)
     down()
     # dot()
-    return window
+    return window 
